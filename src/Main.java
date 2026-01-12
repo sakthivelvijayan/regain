@@ -23,6 +23,7 @@ public class Main {
             else {
                 System.out.print("you fins it! with  "+attemt+"tries:)");
             }
-        } reader.close();
+        }
+        reader.close();
     }
 }
